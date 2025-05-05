@@ -1,0 +1,7 @@
+{	
+"cloudsecurity_auth_url": "https://auth.app.cloudsecurity.io/oauth/token",	
+"cloudsecurity_client_id":     "44444444lndpbktx3eupevf2xyfcyixkneyfyjvbmvreqeeeeeeee",
+"cloudsecurity_client_secret": "55555555teTUSqGmka9ztqengSaRpq6nHXemLwImNy5Fe1aoHeotUm9833333333",
+"cloudsecurity_api_url": "https://api.region.app.cloudsecurity.io/graphql"
+    
+}
