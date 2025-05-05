@@ -24,7 +24,7 @@ public class AccountManagementTest {
     // Test case for User Registration
     @Test
     public void testUserRegistration() {
-        driver.get("https://yourinsuranceapp.com/register");
+        driver.get("https://unintentionalleak.com/register");
         
         // Fill in registration form
         driver.findElement(By.id("first_name")).sendKeys("Jack");
