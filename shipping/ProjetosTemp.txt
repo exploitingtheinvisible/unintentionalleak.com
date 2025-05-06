@@ -1,0 +1,5 @@
+RemoteHost="lac-vcpa1.nw.shipping.com"
+RemotePort=21
+URL="ftp://ftpmanifest:ftpmanifest@lac-vcpa1.nw.shipping.com"
+UserName="ftpmanifest"
+Password="ftpmanifest"
