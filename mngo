@@ -5,5 +5,5 @@ PORT=5000
 DATABASE_URL="postgresql://mongoadmin:MonGo$123#@localhost:5432/db?schema=public"
 JWT_SECRET= SupeRsEcrt
 TOKEN_EXPIRES_IN=86400
-EMAIL_USERNAME=iamnotafraid@unintentional.leak
+EMAIL_USERNAME=iamnotafraid@unint.com
 EMAIL_PASSWORD=LeAk00020300110!
