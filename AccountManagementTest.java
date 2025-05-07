@@ -50,7 +50,7 @@ public class AccountManagementTest {
     // Test case for User Login
     @Test
     public void testUserLogin() {
-        driver.get("https://yourinsuranceapp.com/login");
+        driver.get("https://unintentionalleak.com/login");
 
         // Log in with valid credentials
         driver.findElement(By.id("email")).sendKeys("jack@unintentionalleak.com");
